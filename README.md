@@ -1,4 +1,4 @@
-<img width="1799" height="789" alt="Screenshot 2026-01-02 191553" src="https://github.com/user-attachments/assets/7e17cf89-3435-49ea-a57a-fed7b22fbb98" />💊 Medicine Billing System
+💊 Medicine Billing System
 📌 Project Description
 
 The Medicine Billing System is a software application developed to automate and simplify the billing and inventory management process of a medical store or pharmacy. The system helps in maintaining accurate records of medicines, managing stock levels, generating customer bills, and tracking sales efficiently.
